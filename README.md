@@ -3,7 +3,8 @@
 
 I build production-ready web applications using modern JavaScript stacks, with a focus on clean architecture, scalable backend logic, and user-centered interfaces.
 
-Currently open to remote roles in the USA, UK, Germany, and France.
+Currently open to remote roles
+.
 
 ---
 
